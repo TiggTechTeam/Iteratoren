@@ -1,0 +1,6 @@
+public interface BasicIterator<E> {
+
+  public boolean hasNext();
+  public E getNext();
+
+}
