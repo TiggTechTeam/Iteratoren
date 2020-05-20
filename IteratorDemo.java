@@ -1,9 +1,4 @@
-/*************************************************** 
-Class IteratorDemo: simple class for demonstrating
-  iterator operations with collection classes
 
-UV Objektorientierte Programmierung / H.Hagenauer
-***************************************************/
 
 import java.util.*;  //import from package java.util
 
